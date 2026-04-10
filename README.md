@@ -27,7 +27,7 @@ Seven applied analytics projects covering dashboards, churn modeling, forecastin
 | Project | Domain | Tools | Status |
 |---------|--------|-------|--------|
 | [Sales Performance Dashboard](https://github.com/jsusacortes/Sales-performance-dashboard.git) | Revenue Analytics | Pandas, Plotly, Streamlit | Complete |
-| [Customer Churn Prediction](#) | Customer Retention | Scikit-learn, XGBoost | Planned |
+| [Customer Churn Prediction](https://github.com/jsusacortes/Churn-prediction-model.git) | Customer Retention | Scikit-learn, XGBoost | Complete |
 | [Lead Scoring Model](#) | Sales Ops | Logistic Regression, SHAP | Planned |
 | [Sales Forecasting](#) | Revenue Planning | Prophet, Statsmodels | Planned |
 | [Funnel Drop-off Analysis](#) | Marketing Analytics | Pandas, Plotly | Planned |
