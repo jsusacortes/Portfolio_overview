@@ -6,7 +6,7 @@ Analytical professional with hands-on experience in machine learning, statistica
 
 ---
 
-## Data Science Portfolio (https://github.com/jsusacortes/Portfolio_Data_science.git)
+## [Data Science Portfolio](https://github.com/jsusacortes/Portfolio_Data_science.git)
 *MIT Applied Data Science & Machine Learning Certification*
 
 Three end-to-end machine learning projects covering unsupervised learning, supervised classification, and recommendation systems.
@@ -19,7 +19,7 @@ Three end-to-end machine learning projects covering unsupervised learning, super
 
 ---
 
-## Data Analytics Portfolio(https://github.com/jsusacortes/Portfolio_Data_analytics.git)
+## [Data Analytics Portfolio](https://github.com/jsusacortes/Portfolio_Data_analytics.git)
 *Sales, Marketing & Customer Intelligence*
 
 Seven applied analytics projects covering dashboards, churn modeling, forecasting, experimentation, and market intelligence.
