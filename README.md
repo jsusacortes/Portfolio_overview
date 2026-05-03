@@ -28,20 +28,16 @@ Seven applied analytics projects covering dashboards, churn modeling, forecastin
 |---------|--------|-------|--------|
 | [Sales Performance Dashboard](https://github.com/jsusacortes/Sales-performance-dashboard.git) | Revenue Analytics | Pandas, Plotly, Streamlit | Complete |
 | [Customer Churn Prediction](https://github.com/jsusacortes/Churn-prediction-model.git) | Customer Retention | Scikit-learn, XGBoost | Complete |
-| [Insurance PostgreSQL analysis](https://github.com/jsusacortes/insurance-postgres-sql-analysis.git) | PostgreSQL analysis | PostgreSQL, pgAdmin| Complete |
-| [Retail PostgreSQL analysis](https://github.com/jsusacortes/retail-postgresql.git) | PostgreSQL analysis | PostgreSQL, pgAdmin| Complete |
-| [Lead Scoring Model](#) | Sales Ops | Logistic Regression, SHAP | Planned |
-| [Sales Forecasting](#) | Revenue Planning | Prophet, Statsmodels | Planned |
-| [Funnel Drop-off Analysis](#) | Marketing Analytics | Pandas, Plotly | Planned |
-| [A/B Test Analysis](#) | Experimentation | SciPy, Bayesian Stats | Planned |
-| [Competitive Price Scraper](#) | Market Intelligence | BeautifulSoup, Selenium | Planned |
+| [Statistical Analysis & Window Functions](https://github.com/jsusacortes/insurance-postgres-sql-analysis.git) | PostgreSQL analysis | PostgreSQL, pgAdmin| Complete |
+| [Multi-Table Relational Database & Business Intelligence](https://github.com/jsusacortes/retail-postgresql.git) | PostgreSQL analysis | PostgreSQL, pgAdmin| Complete |
+
 
 ---
 
 ## Tech Stack
 
-**Languages:** Python, SQL, PostgreSQL
+**Languages:** Python, SQL
 
-**Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Prophet, SciPy, Plotly, Matplotlib, Seaborn, Streamlit, BeautifulSoup, Selenium
+**Libraries:** Pandas, NumPy, Scikit-learn, XGBoost, Prophet, SciPy, Plotly, Matplotlib, Seaborn, Streamlit, BeautifulSoup, Selenium, SQLAlchemy, yfinance
 
-**Tools:** Jupyter Notebook, Google Colab, Git, GitHub
+**Tools:** PostgreSQL, pgAdmin, Tableau, Catapult Sports, Jupyter Notebook, Google Colab, Git, GitHub
