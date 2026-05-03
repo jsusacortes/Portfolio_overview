@@ -28,7 +28,8 @@ Seven applied analytics projects covering dashboards, churn modeling, forecastin
 |---------|--------|-------|--------|
 | [Sales Performance Dashboard](https://github.com/jsusacortes/Sales-performance-dashboard.git) | Revenue Analytics | Pandas, Plotly, Streamlit | Complete |
 | [Customer Churn Prediction](https://github.com/jsusacortes/Churn-prediction-model.git) | Customer Retention | Scikit-learn, XGBoost | Complete |
-| [Insurance SQL analysis](https://github.com/jsusacortes/insurance-postgres-sql-analysis.git) | SQL analysis | PostgreSQL, pgAdmin| Complete |
+| [Insurance PostgreSQL analysis](https://github.com/jsusacortes/insurance-postgres-sql-analysis.git) | PostgreSQL analysis | PostgreSQL, pgAdmin| Complete |
+| [Retail PostgreSQL analysis](https://github.com/jsusacortes/retail-postgresql.git) | PostgreSQL analysis | PostgreSQL, pgAdmin| Complete |
 | [Lead Scoring Model](#) | Sales Ops | Logistic Regression, SHAP | Planned |
 | [Sales Forecasting](#) | Revenue Planning | Prophet, Statsmodels | Planned |
 | [Funnel Drop-off Analysis](#) | Marketing Analytics | Pandas, Plotly | Planned |
